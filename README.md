@@ -1,1 +1,2 @@
-# UpbitAutoTradeBot
+# Upbit Auto Trade Bot
+
